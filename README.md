@@ -22,7 +22,7 @@ Evaluate how different discount levels impact GMV, margin, and customer behavior
 - Discount dependency
 - Customer response to promotions
 
-📁 Folder: `Promo_Discount_Effectiveness`
+📁 Folder: `Promo Effectiveness Analysis`
 
 ---
 
@@ -35,7 +35,7 @@ Identify high- and low-performing stores using scale, efficiency, and discount s
 - Productivity per customer
 - Scale vs efficiency positioning
 
-📁 Folder: `Store_Productivity_Performance`
+📁 Folder: `Store Productivity and Performance Tracking`
 
 ---
 
@@ -48,7 +48,7 @@ Understand long-term customer value through retention and cohort behavior.
 - Retention rate
 - Cohort analysis and long-term reactivation patterns
 
-📁 Folder: `Customer_Retention_Cohort`
+📁 Folder: `Customer Retention and Cohort Analysis`
 
 ---
 
